@@ -14,8 +14,16 @@
 #include <fstream>
 using namespace std;
 
-//so member functions of point can be used and so DIMENSION can be used
 #include "Point.h"
+#include "Circle.h"
+#include "Color.h"
+#include "Graphics.h"
+#include "Line.h"
+#include "Point.h"
+#include "Rectangle.h"
+#include "Shape.h"
+#include "Triangle.h"
+#include "bmp.h"
 #include "utility.h"
 
 void test_point();
